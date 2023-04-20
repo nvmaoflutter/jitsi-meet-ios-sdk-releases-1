@@ -6,7 +6,7 @@
 	<dict>
 		<key>AccessibilityResources.bundle/Info.plist</key>
 		<data>
-		0uHaINWOgv0doyd4kOTBrlqDbPQ=
+		m/ynnt7C/wqyiCiOAMEPayqcRms=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -27,7 +27,7 @@
 		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		uco8SxvHh7IWmKb/SLszVpqL/5o=
+		yIO4WB3XZme5kduD1Mo2QSltgpo=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -437,11 +437,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		L+fbXMrNMIjfz5sDMUY9TUiKlT0=
+		JInKutM4FPE1m6Jgd6KLpeB6ux8=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		J85z5MhNcoXnG/z06hJsq7OCAVw=
+		qvbQOgxDzXVd6O2fP1tcvph8iR4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -457,11 +457,11 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fWsIUHbYjKp9AMhlUm2HZWwfM7E=
+		IgJJYVzaeywD5CuoZu8tcNNr2Gs=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		J85z5MhNcoXnG/z06hJsq7OCAVw=
+		qvbQOgxDzXVd6O2fP1tcvph8iR4=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -477,7 +477,7 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Qp5Vgqk9PMLceL5/HHuV0IddQvs=
+		F0HZ6s/yKmyYBkjGbeIx8eOulws=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -633,7 +633,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		qIEyimzI07Xjs0kNujTtzrLIcG4=
+		0iUOocmbfCDIpfo0pJANz3PTYS0=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -786,7 +786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ihY0Tx9eGGk/n3iEWP14zMgB+aGBCoC5H0W+Wx2av1I=
+			GEb7xx0GOMidtlPzQIu4RmD3I9l+d55x8yAmqWYrbEA=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -816,7 +816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cnWeupKWou++iW2HWVmH7k4Qjkbsrx1OE7VT8is8dYI=
+			FsUnsDTGqmoCy2fUggDTsPkO+DiGUoPAKBa0IJALHuY=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -1277,7 +1277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FIB6Fy+0TdYvR3cO/VMshsOC5Z9l+kJzoRWaMIOMPCI=
+			TwW+IGNLvdkh997Dazs1I1SgFHby4+TG0mqn9A/Yg8g=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1305,14 +1305,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LmTWfvdiZs1u0Ol4jUlV+jfKVn+GMdTbpzNnAL7qBVo=
+			CRRUcqn2tfRjeG+bCp74ioQiiaGUzk1tlSJNdkpCEuU=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FIB6Fy+0TdYvR3cO/VMshsOC5Z9l+kJzoRWaMIOMPCI=
+			TwW+IGNLvdkh997Dazs1I1SgFHby4+TG0mqn9A/Yg8g=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1340,7 +1340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Y8jnPiBNOsG1UfvBqYcfZfil5mbiUxbfi2fXjywOKk=
+			TErrttZ0dtRHLlvVpnmYhCVd3o4lm1eRdhXXZ/EMERc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1613,7 +1613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zlzW7ALT32QmkQWJfDsab7E5Fu+D+vz8frmuuuJfMQg=
+			SxEXK8g2F4TCvtkQwIocDWR0dLhoHpZQok5/GikZBIE=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
